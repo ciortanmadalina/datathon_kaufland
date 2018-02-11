@@ -1,0 +1,9 @@
+/data
+/.idea
+/__pycache__
+/.ipynb_checkpoints
+.RData
+.Rhistory
+/cancer/data
+/alzheimer/data
+/encode/data
